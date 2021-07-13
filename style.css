@@ -22,3 +22,20 @@ h1, h2 {
   margin: 4px;
   font-size: 90%;
 }
+
+a:visited {
+  text-decoration: none;
+  color: green;
+}
+
+a:link {
+  text-decoration: none;
+  color: green;
+}
+
+a:active {
+  text-decoration: underline;
+  text-decoration-color: red;
+  color: red;
+}
+/*this is a comment*/
